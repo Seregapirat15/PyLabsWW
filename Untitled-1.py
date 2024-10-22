@@ -28,4 +28,4 @@ def calculate_expression():
 
     print(f"Результат: {result}")
 
-calculate_expression()
+calculate_expression() # check
