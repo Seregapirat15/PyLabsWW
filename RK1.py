@@ -6,17 +6,12 @@ class Browser:
         self.year = year
         self.computer_id = None
 
-
 class Computer:
     def __init__(self, id, model, ram):
         self.id = id
         self.model = model
         self.ram = ram
         self.browsers = []
-
-
-def get_browser_by_name(browsers, name):
-    return next((browser for browser in browsers if browser.name == name), None)
 
 
 def main():
