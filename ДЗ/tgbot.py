@@ -7,8 +7,8 @@ import asyncio
 import logging
 
 # Ваши токены
-TELEGRAM_TOKEN = "8007309235:AAHl2AGFnbqqdoxi5eUmXPtdWroHI9U6sNI"
-OPENWEATHER_API_KEY = "57a763550440a9b07fdc606265fecee8"
+TELEGRAM_TOKEN = ""
+OPENWEATHER_API_KEY = ""
 OPENWEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # Настроим логирование
