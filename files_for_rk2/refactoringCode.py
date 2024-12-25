@@ -1,4 +1,3 @@
-import unittest
 
 class Browser:
     def __init__(self, id, name, version, year):
